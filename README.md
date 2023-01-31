@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @holdennguyen
+- 👋 Hi, I’m Nguyễn Minh Hùng.
 - 👀 I’m interested in computer science and familiar with website(JavaScript), mobile app(Java), game(Unity-C#) development.
-- 🌱 I’m currently learning devops.
-- 💞️ I’m looking to collaborate on non-profit project to gain experience and help people.
+- 🌱 I’m currently looking for devops engineering path.
+- 💞️ I’m also looking to collaborate on non-profit project to gain experience and help people.
 - 📫 How to reach me: holdennguyen6174@gmail.com
 
 <!---
