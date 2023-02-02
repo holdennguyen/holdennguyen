@@ -25,11 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hoakhiem&show_icons=true&theme=tokyonight" height="165">
 </p>
 
-### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoakhiem)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/codey2k1/)
-
-
 <!---
 holdennguyen/holdennguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
