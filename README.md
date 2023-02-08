@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?logo=linode&logoColor=white)
+![Linode](https://img.shields.io/badge/-Linode-FFFFFF?logo=linode&logoColor=00A95C)
 
 ### 📚 Github Status
 
