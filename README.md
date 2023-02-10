@@ -22,13 +22,10 @@
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![Linode](https://img.shields.io/badge/-Linode-00A95C?logo=linode&logoColor=white)
 
+<!---
 ### 📚 Github Status
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=holdennguyen&show_icons=true&theme=tokyonight" height="165">
 </p>
-
-<!---
-holdennguyen/holdennguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
