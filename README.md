@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyễn Minh Hùng.
-- 👀 I’m interested in computer science and familiar with website(JavaScript), mobile app(Java), game(Unity-C#) development.
-- 🌱 I’m currently looking for devops engineering path.
+- 👀 I’m currently looking for devops engineering path.
+- 🌱 MLOps is my specific interest.
 - 💞️ I’m also looking to collaborate on non-profit project to gain experience and help people.
 - 📫 How to reach me: holdennguyen6174@gmail.com
 
