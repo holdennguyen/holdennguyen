@@ -20,7 +20,6 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?logo=linode&logoColor=white)
 
 <!---
 ### 📚 Github Status
