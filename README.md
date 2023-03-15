@@ -14,7 +14,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android-Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Containerd](https://img.shields.io/badge/-containerd-575757?logo=containerd&logoColor=white)
