@@ -8,7 +8,7 @@
 
 ### 🎖️ Certification
 
-![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/db6f862c-7030-4951-8314-f1c698318c16/linked_in_profile)
+[`AWS Certified Solutions Architect – Associate`](https://www.credly.com/badges/db6f862c-7030-4951-8314-f1c698318c16/linked_in_profile)
 
 ### ⚒️ My knowledge
 
