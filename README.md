@@ -29,14 +29,14 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-opentelemetry-#7EBC6F?logo=opentelemetry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-#7EBC6F?logo=opentelemetry&logoColor=white)
 
 ### ⚔️ Top skill
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-opentelemetry-#7EBC6F?logo=opentelemetry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-#7EBC6F?logo=opentelemetry&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
 
 <!---
